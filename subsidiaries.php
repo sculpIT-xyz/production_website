@@ -5,7 +5,7 @@
 
 <!-- Menu -->
         <div>
-                    <nav id="menu"
+                    <nav id="menu">
 						<h2>Menu</h2>
 						<ul>
 							<li><a href="index.html">Home</a></li>
