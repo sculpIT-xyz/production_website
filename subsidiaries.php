@@ -9,16 +9,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>sculpIT.xyz subsidiaries</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-		<!-- Wrapper -->
-			<div id="wrapper">
 
 				<!-- Header -->
 					<header id="header">
@@ -43,7 +33,7 @@
 						</div>
 					</header>
 
-				<!-- Menu -->
+	<!-- Menu -->
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
@@ -55,8 +45,16 @@
 						</ul>
 					</nav>
 
-
-
+	<head>
+		<title>sculpIT.xyz subsidiaries</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
 
 <div style="margin-right:auto;
             margin-left:auto;
