@@ -3,6 +3,20 @@
     require_once 'includes/config.php'; 
 ?>
 
+<!-- Menu -->
+        <div>
+                    <nav id="menu"
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="elements.html">Elements</a></li>
+							<li><a href="mailto:info@sculpit.xyz">Contact</a></li>
+							<li><a href="subsidiaries.php">Subsidiaries</a></li>
+							<li><a href="amazed.html">About us</a></li>
+						</ul>
+					</nav>
+       </div>
+
 <div style="margin-right:auto;
             margin-left:auto;
             width:980px;
