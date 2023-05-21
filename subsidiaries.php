@@ -9,6 +9,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+	<head>
+		<title>sculpIT.xyz subsidiaries</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
 
 				<!-- Header -->
 					<header id="header">
@@ -44,39 +51,37 @@
 							<li><a href="generic.html">About us</a></li>
 						</ul>
 					</nav>
-
-	<head>
-		<title>sculpIT.xyz subsidiaries</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
+	
 	<body class="is-preload">
+		
 		<!-- Wrapper -->
+		
 			<div id="wrapper">
 
-<div style="margin-right:auto;
-            margin-left:auto;
-            width:980px;
-            clear:both;
-            padding-top:50px;
-            maring-bottom:50px;">
-    <p style="font-family:giorgio;
-              font-size:31px;
-              color:#555f67;
-              line-height:41px;
-              margin-bottom:50px" >
-        sculpIT.xyz divisions:  
-        <br/>
-        fully owned subsidiaries and equity investments  
-    </p>
+				<div style="margin-right:auto;
+                                            margin-left:auto;
+                                            width:980px;
+                                            clear:both
+                                            padding-top:50px;
+                                            maring-bottom:50px;">
+                                    <p style="font-family:giorgio;
+                                              font-size:31px;
+                                              color:#555f67;
+                                              line-height:41px;
+                                              margin-bottom:50px" >
+                                                  sculpIT.xyz divisions:  
+                                                  <br/>
+                                                  fully owned subsidiaries and equity investments  
+                                    </p>
     
     <p id="sculpIT.vc">
         <a href="http://www.sculpit.vc/">
             <img src="/images/sculpIT_LOGO_D_banner.png" width="200px"/>
         </a>
-    </p>   
+    </p>
+				
+				</div>
+	
     <div style="margin-right:auto;
             margin-left:auto;
             width:980px;
@@ -98,7 +103,8 @@
         <a href="http://www.sculpit.auction/">
             <img src="/images/sculpIT_LOGO_A_banner.png" width="200px"/>
         </a>
-    </p>   
+    </p>
+				</div>   
     <div style="margin-right:auto;
             margin-left:auto;
             width:980px;
@@ -120,7 +126,9 @@
         <a href="https://powerhandz.com">
             <img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px"/>
         </a>
-    </p>   
+	     </p>
+				</div>
+   
     <div style="margin-right:auto;
             margin-left:auto;
             width:980px;
@@ -142,7 +150,9 @@
             <img src="./images/sculpit_fitness_logo.png" width="200px"/>
         </a>
     </p>
+				
  <p style="padding: 10px;"></p>
+	    </div>
 <div style="width:425px;float:left;">	
 </div>
 <div style="width:425px;float:left;">	
@@ -162,6 +172,8 @@
 </iframe>
 
 </div>
+		</div>
+				
 
 <?php
 include("xyz_index_footer.php");
