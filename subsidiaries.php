@@ -37,8 +37,8 @@
 				<!-- Menu -->
 				<nav id="menu">
 					<h2>Menu</h2>
-					<ul
-					    ><li><a href="index.html">Home</a></li>
+					<ul>
+						<li><a href="index.html">Home</a></li>
 						<li><a href="elements.html">Elements</a></li>
 						<li><a href="mailto:info@sculpit.xyz">Contact</a></li>
 						<li><a href="subsidiaries.php">Subsidiaries</a></li>
@@ -108,28 +108,31 @@
 					<p style="padding: 10px;">
 					</p>
 				</div>
-				<div style="width:425px;
-					    float:right;">
-				</div>
-				<div style="width:425px;
-					    float:
-					    center;">
+
+				</div><div style="width:425px;
+					float:left;">
 					<iframe width="560" 
-        					height="315" 
-        					src="https://www.youtube.com/embed/uei7yrwQz4Y" 
-        					title="YouTube video player" 
-        					frameborder="0" 
-        					allow="accelerometer; 
-               						autoplay; 
-						       	clipboard-write; 
-						       	encrypted-media; 
-						       	gyroscope; 
-						       	picture-in-picture; 
-						       	web-share" 
-        						allowfullscreen>
-					</iframe>
-				</div>
+						height="315" 
+						src="https://www.youtube.com/embed/uei7yrwQz4Y"
+						title="YouTube video player" 
+						frameborder="0" 
+						allow="accelerometer; 
+						       autoplay; 
+						       clipboard-write; 
+						       encrypted-media; 
+						       gyroscope; 
+						       picture-in-picture; 
+						       web-share"  
+						allowfullscreen>
+</iframe>
+
+</div>
 			</div>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 	</body>
 </html>
 
