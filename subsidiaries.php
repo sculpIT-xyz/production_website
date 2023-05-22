@@ -82,7 +82,7 @@
 							<p>sculpIT eCommerce Edition </br>auctions, haggle, bargains, offers, gold & silver bullions, oddities
 </p></br>
 					</p>
-					<p style="font-family:giorgio;
+					<p style="font-family:Giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
@@ -93,7 +93,7 @@
 							<p>POWERHANDZ©: Empowering athletes and patients in the world to train with purpose
 </p></br>					
 					</p>					
-					<p style="font-family:giorgio;
+					<p style="font-family:Giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
@@ -111,7 +111,8 @@
 
 				</div><div style="width:425px;
 					inline-end;">
-					<iframe width="560" 
+					<iframe type "align=center" 
+						width="560" 
 						height="315" 
 						src="https://www.youtube.com/embed/uei7yrwQz4Y"
 						title="YouTube video player" 
