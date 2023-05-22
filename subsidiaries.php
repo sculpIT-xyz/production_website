@@ -56,7 +56,7 @@
                                               	color:#555f67;
                                               	line-height:41px;
                                               	margin-bottom:50px" >
-						sculpIT.xyz divisions:  <br/>
+						sculpIT.xyz divisions: </br>
 						fully owned subsidiaries and equity investments
 					</p>
 					<p id="sculpIT.vc;
@@ -67,17 +67,8 @@
                                               	margin-bottom:50px" >
 						<a href="http://www.sculpit.vc/">
 							<img src="/images/sculpIT_LOGO_D_banner.png" width="200px"/>
-						</a>
-					</p>
-					<p style="font-family:giorgio;
-              					font-size:20px;
-              					color:#555f67;
-              					line-height:30px;
-              					margin-bottom:50px" >
-						sculpIT Ventura Capital
-						<a href="http://www.sculpit.auction/">
-							<img src="/images/sculpIT_LOGO_A_banner.png" width="200px"/>
-							sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
+							</br>
+						sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
 						</a>
 					</p>
 					<p style="font-family:giorgio;
