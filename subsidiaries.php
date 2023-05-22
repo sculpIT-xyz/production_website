@@ -67,8 +67,8 @@
                                               	margin-bottom:50px" >
 						<a href="http://www.sculpit.vc/">
 							<img src="/images/sculpIT_LOGO_D_banner.png" width="200px"/>
+							sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
 							</br>
-						sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
 						</a>
 					</p>
 					<p style="font-family:giorgio;
@@ -79,9 +79,8 @@
 						sculpIT eCommerce Edition
 						<a href="https://sculpit.auctions/">
 							<img src="/images/sculpIT_LOGO_B_banner.png" width="200px"/>
-						</a>
-					<p>auctions, haggle, bargains, offers, gold & silver bullions, oddities</p>
-						
+							auctions, haggle, bargains, offers, gold & silver bullions, oddities
+							</br>
 					</p>
 					<p style="font-family:giorgio;
               					font-size:20px;
@@ -92,6 +91,7 @@
 						<a href="https://powerhandz.com">
 							<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px"/>
 							Empowering athletes and patients in the world to train with purpose
+							</br>
 						</a>
 					</p>					
 					<p style="font-family:giorgio;
