@@ -67,10 +67,9 @@
                                               	margin-bottom:50px" >
 						<a href="http://www.sculpit.vc/">
 							<img src="/images/sculpIT_LOGO_D_banner.png" width="200px"/>
-							sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
-							</br>
 						</a>
-					</p>
+			<p>sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
+			</p>
 					<p style="font-family:giorgio;
               					font-size:20px;
               					color:#555f67;
