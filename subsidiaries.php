@@ -87,11 +87,10 @@
               					color:#555f67;
               					line-height:30px;
               					margin-bottom:50px" >
-						POWERHANDZ©
 						<a href="https://powerhandz.com">
 							<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px">
 						</a></br>
-							<p>Empowering athletes and patients in the world to train with purpose
+							<p>POWERHANDZ©: Empowering athletes and patients in the world to train with purpose
 </p></br>					
 					</p>					
 					<p style="font-family:giorgio;
@@ -99,11 +98,10 @@
               					color:#555f67;
               					line-height:30px;
               					margin-bottom:50px" >
-						sculpIT.Fitness
 						<a href="/index-fit.php">
 							<img src="./images/sculpit_fitness_logo.png" width="200px">
 						</a></br>
-							<p>Your Personal Trainer at your fingertips
+							<p>sculpIT.Fitness: Your Personal Trainer at your fingertips
 </p></br>					
 					</p>
 
@@ -115,7 +113,7 @@
 				</div>
 				<div style="width:425px;
 					    float:
-					    right;">
+					    center;">
 					<iframe width="560" 
         					height="315" 
         					src="https://www.youtube.com/embed/uei7yrwQz4Y" 
