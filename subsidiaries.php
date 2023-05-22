@@ -63,74 +63,70 @@
 						sculpIT.xyz divisions:  <br/>
 						fully owned subsidiaries and equity investments
 					</p>
-					<p id="sculpIT.vc">
+					<p id="sculpIT.vc;
+					        font-family:giorgio;
+					       	font-size:31px;
+                                              	color:#555f67;
+                                              	line-height:41px;
+                                              	margin-bottom:50px" >
 						<a href="http://www.sculpit.vc/">
 							<img src="/images/sculpIT_LOGO_D_banner.png" width="200px"/>
 						</a>
 					</p>
-				</div>
-				<div style="margin-right:auto; 
-						margin-left:auto; 
-						width:980px; 
-						clear:both; 
-						padding-top:5px; 
-						maring-bottom:50px;">
 					<p style="font-family:giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:20px" >
-						sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
-					</p>
-					<p id="sculpIT.shop">
+              					margin-bottom:50px" >
+						sculpIT Ventura Capital
 						<a href="http://www.sculpit.auction/">
 							<img src="/images/sculpIT_LOGO_A_banner.png" width="200px"/>
+							sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
 						</a>
 					</p>
-				</div>
-				<div style="margin-right:auto;
-            				margin-left:auto;
-            				width:980px;
-            				clear:both;
-            				padding-top:5px;
-            				maring-bottom:50px;">
 					<p style="font-family:giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:20px" >
-						sculpIT eCommerce Edition<br/>
-						auctions, haggle, bargains, offers, gold & silver bullions, oddities
-					</p>
-					<p id="POWERHANDZ"><a href="https://powerhandz.com">
-						<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px"/>
+              					margin-bottom:50px" >
+						sculpIT eCommerce Edition
+						<a href="https://sculpit.auctions/">
+							<img src="/images/sculpIT_LOGO_A_banner.png" width="200px"/>
+							auctions, haggle, bargains, offers, gold & silver bullions, oddities
 						</a>
 					</p>
-				</div>
-				<div style="margin-right:auto;
-            				margin-left:auto;
-            				width:980px;
-            				clear:both;
-            				padding-top:5px;
-            				maring-bottom:50px;">
 					<p style="font-family:giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:20px" >
-						Empowering athletes and patients in the world to train with purpose<br/>
-					</p>
-					<p id="sculpit.fitness">
-						<a href="index-fit.php"><img src="./images/sculpit_fitness_logo.png" width="200px"/>
+              					margin-bottom:50px" >
+						POWERHANDZ©
+						<a href="https://powerhandz.com">
+							<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px"/>
+							Empowering athletes and patients in the world to train with purpose
+						</a>
+					</p>					
+					<p style="font-family:giorgio;
+              					font-size:20px;
+              					color:#555f67;
+              					line-height:30px;
+              					margin-bottom:50px" >
+						sculpIT.Fitness
+						<a href="/index-fit.php">
+							<img src="./images/sculpit_fitness_logo.png" width="200px"/>
+							Your Personal Trainer at your fingertips
 						</a>
 					</p>
+
 					<p style="padding: 10px;">
 					</p>
 				</div>
 				<div style="width:425px;
 					    float:left;">
 				</div>
-				<div style="width:425px;float:left;">
+				<div style="width:425px;
+					    float:
+					    center;">
 					<iframe width="560" 
         					height="315" 
         					src="https://www.youtube.com/embed/uei7yrwQz4Y" 
