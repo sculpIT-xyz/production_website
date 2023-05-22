@@ -97,7 +97,7 @@
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:50px" >
+              					margin-bottom:10px" >
 						<a href="/index-fit.php">
 							<img src="./images/sculpit_fitness_logo.png" width="200px">
 						</a></br>
@@ -105,15 +105,18 @@
 							</p></br>					
 					</p>
 
-					<p style="padding: 10px;">
-					</p>
 		</div>
-			<div style="width:425px; 
+		<div style="margin-right:auto;
+                    margin-left:auto;
+                    width:980px;
+                    clear:both
+                    padding-top:10px;
+                    maring-bottom:50px; 
 	    			inline-end;">
-				<p align="center">
-					<iframe width="560"
+		    <p align="center">
+		        <iframe src="https://www.youtube.com/embed/uei7yrwQz4Y"
+					    width="560"
 						height="315"
-						src="https://www.youtube.com/embed/uei7yrwQz4Y"
 						title="YouTube video player"
 						frameborder="0"
 						allow="accelerometer;
@@ -124,9 +127,9 @@
 						       picture-in-picture;
 						       web-share"
 						allowfullscreen>
-					</iframe>
-				</p>
-				/div>
+				</iframe>
+			</p>
+		</div>
 </div>
 <script src="assets/js/jquery.min.js">
 </script>
