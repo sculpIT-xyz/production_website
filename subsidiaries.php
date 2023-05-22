@@ -2,19 +2,15 @@
     include("xyz_index_header.php");
     require_once 'includes/config.php'; 
 ?>
-<!DOCTYPE HTML>
-<!--
-	Phantom by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+<!DOCTYPE PHP>
 <html>
 	<head>
 		<title>sculpIT.xyz subsidiaries</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" />
+		</noscript>
 	</head>
 		<body class="is-preload">
 		<!-- Wrapper -->
@@ -91,9 +87,10 @@
               					margin-bottom:50px" >
 						sculpIT eCommerce Edition
 						<a href="https://sculpit.auctions/">
-							<img src="/images/sculpIT_LOGO_A_banner.png" width="200px"/>
-							auctions, haggle, bargains, offers, gold & silver bullions, oddities
+							<img src="/images/sculpIT_LOGO_B_banner.png" width="200px"/>
 						</a>
+					<p>auctions, haggle, bargains, offers, gold & silver bullions, oddities</p>
+						
 					</p>
 					<p style="font-family:giorgio;
               					font-size:20px;
