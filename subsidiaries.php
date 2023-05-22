@@ -110,7 +110,7 @@
 				</div>
 
 				</div><div style="width:425px;
-					float:left;">
+					inline-start;">
 					<iframe width="560" 
 						height="315" 
 						src="https://www.youtube.com/embed/uei7yrwQz4Y"
