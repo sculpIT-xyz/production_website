@@ -66,20 +66,21 @@
                                               	line-height:41px;
                                               	margin-bottom:50px" >
 						<a href="http://www.sculpit.vc/">
-							<img src="/images/sculpIT_LOGO_D_banner.png" width="200px"/>
+							<img src="/images/sculpIT_LOGO_D_banner.png" width="200px">
 						</a></br>
-			<p>sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
-			</p>
+							<p>sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
+							</p>
+					</p>
 					<p style="font-family:giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:50px" >
-						sculpIT eCommerce Edition
+              					margin-bottom:50px">
 						<a href="https://sculpit.auctions/">
-							<img src="/images/sculpIT_LOGO_B_banner.png" width="200px"/>
-							auctions, haggle, bargains, offers, gold & silver bullions, oddities
-							</br>
+							<img src="/images/sculpIT_LOGO_B_banner.png" width="200px">
+						</a></br>
+							<p>sculpIT eCommerce Edition </br>auctions, haggle, bargains, offers, gold & silver bullions, oddities
+							</p>
 					</p>
 					<p style="font-family:giorgio;
               					font-size:20px;
@@ -88,10 +89,10 @@
               					margin-bottom:50px" >
 						POWERHANDZ©
 						<a href="https://powerhandz.com">
-							<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px"/>
-							Empowering athletes and patients in the world to train with purpose
-							</br>
-						</a>
+							<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px">
+						</a></br>
+							<p>Empowering athletes and patients in the world to train with purpose
+							</p>						
 					</p>					
 					<p style="font-family:giorgio;
               					font-size:20px;
@@ -100,16 +101,17 @@
               					margin-bottom:50px" >
 						sculpIT.Fitness
 						<a href="/index-fit.php">
-							<img src="./images/sculpit_fitness_logo.png" width="200px"/>
-							Your Personal Trainer at your fingertips
-						</a>
+							<img src="./images/sculpit_fitness_logo.png" width="200px">
+						</a></br>
+							<p>Your Personal Trainer at your fingertips
+							</p>						
 					</p>
 
 					<p style="padding: 10px;">
 					</p>
 				</div>
 				<div style="width:425px;
-					    float:left;">
+					    float:right;">
 				</div>
 				<div style="width:425px;
 					    float:
