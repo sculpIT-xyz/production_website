@@ -64,45 +64,57 @@
 			       font-size:31px;
 			       color:#555f67;
 			       line-height:41px;
-			       margin-bottom:50px">
+			       margin-bottom:20px">
 				<a href="http://www.sculpit.vc/">
 					<img src="/images/sculpIT_LOGO_D_banner.png" width="200px">
 				</a></br>
 			<p>sculpIT Venture Capital our private equity arm<br/>focused on new technologies and solutions for health and fitness
-			</p></br>
+			</p>
 			</p>
 					<p style="font-family:Giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:50px">
+              					margin-bottom:20px">
 						<a href="https://sculpit.auctions/">
 							<img src="/images/sculpIT_LOGO_B_banner.png" width="200px">
 						</a></br>
 							<p>sculpIT eCommerce Edition </br>auctions, haggle, bargains, offers, gold & silver bullions, oddities
-							</p></br>	
+							</p>
 					</p>
 					<p style="font-family:Giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:50px" >
+              					margin-bottom:20px">
 						<a href="https://powerhandz.com">
 							<img src="/images/POWERHANDZ-Logo-Dark1.jpg" width="200px">
 						</a></br>
 							<p>POWERHANDZ©: Empowering athletes and patients in the world to train with purpose
-							</p></br>					
-					</p>					
+							</p>			
+					</p>
 					<p style="font-family:Giorgio;
               					font-size:20px;
               					color:#555f67;
               					line-height:30px;
-              					margin-bottom:10px" >
+              					margin-bottom:10px">
+						<a href="https://www.bonanza.com/booths/sculpIT">
+							<img src="./images/Flat_logo_basar.png" width="200px">
+						</a></br>
+							<p>sculpIT Bazar Marketplace
+							</p>				
+					</p>					
+					
+					<p style="font-family:Giorgio;
+              					font-size:20px;
+              					color:#555f67;
+              					line-height:30px;
+              					margin-bottom:20px" >
 						<a href="/index-fit.php">
 							<img src="./images/sculpit_fitness_logo.png" width="200px">
 						</a></br>
 							<p>sculpIT.Fitness: Your Personal Trainer at your fingertips
-							</p></br>					
+							</p>				
 					</p>
 
 		</div>
@@ -110,7 +122,7 @@
                     margin-left:auto;
                     width:980px;
                     clear:both
-                    padding-top:10px;
+                    padding-top:0px;
                     maring-bottom:50px; 
 	    			inline-end;">
 		    <p align="center">
